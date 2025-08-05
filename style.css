@@ -1,4 +1,7 @@
 * {
-    background-color:gray;
-    color:beige;
+background: linear-gradient(45deg, red, purple);
+
+background: linear-gradient(to right, red, magenta, purple);
+
+background: radial-gradient(circle, red, purple);
 }
