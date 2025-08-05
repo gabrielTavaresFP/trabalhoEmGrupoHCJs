@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  color: #333;
+  color: white;
   background: linear-gradient(to right, #3a0052, #4a0000);
   height: 100vh;
   margin: 0;
@@ -31,7 +31,7 @@ section {
 
 h2 {
   font-size: 1.8rem;
-  color: #5a005f;
+  color: purple;
   margin-bottom: 0.5rem;
 }
 
