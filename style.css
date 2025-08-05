@@ -1,7 +1,6 @@
-* {
-background: linear-gradient(45deg, red, purple);
-
-background: linear-gradient(to right, red, magenta, purple);
-
-background: radial-gradient(circle, red, purple);
+body {
+  background: linear-gradient(to right, #2c003e, #3b0000);
+  height: 100vh;
+  margin: 0;
 }
+
