@@ -30,4 +30,8 @@ As imagens dos atores foram obtidas de fontes públicas como Wikimedia Commons.
 
 1. Clone ou baixe o repositório.
 2. Abra o arquivo `index.html` em seu navegador.
+<<<<<<< HEAD
 3. Navegue pelas páginas usando os botões disponíveis.
+=======
+3. Navegue pelas páginas usando os botões disponíveis.
+>>>>>>> a624edb299a839b49afc2bd50ae89cb28c0d4cdf
