@@ -1,4 +1,4 @@
-# Projeto: Vingadores Ultimato — Site Informativo, opa
+# Projeto: Vingadores Ultimato — Site Informativo, 
 
 Este projeto é um site simples e estilizado com HTML e CSS, criado para apresentar informações sobre o filme **Vingadores: Ultimato**, seus personagens, atores e conceitos extras como "meios de produção", de forma educativa e visualmente atrativa.
 
@@ -21,6 +21,7 @@ Este projeto é um site simples e estilizado com HTML e CSS, criado para apresen
 
 - HTML5
 - CSS3 (Flexbox, Gradients, Box Shadows)
+- Git Hub
 
 ## 📷 Créditos das Imagens
 
